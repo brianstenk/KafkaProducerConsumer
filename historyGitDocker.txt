@@ -1,0 +1,500 @@
+   15  cd Spring-Context
+   16  git init
+   17  git clone https://github.com/brianstenk/Spring-Context.git
+   18  git status 
+   19  ls
+   20  git checkout
+   21  ls
+   22  git status
+   23  cat Spring-Context
+   24  cd Spring-Context
+   25  ls
+   26  cd ../
+   27  git status
+   28  git add Spring-Context
+   29  git status
+   30  git commit -m "With a new internal folder"
+   31  git push origin master
+   32  git status
+   33  git clone https://github.com/brianstenk/Spring-Context.git
+   34  git init
+   35  git clone https://github.com/brianstenk/Spring-Context.git
+   36  ls
+   37  git clone https://github.com/brianstenk/Spring-Context.git
+   38  ls
+   39  cd Spring-Context/
+   40  ls
+   41  git status
+   42  git remote add origin 
+   43  git remote add origin https://github.com/brianstenk/Spring-Context.git
+   44  git status
+   45  ls
+   46  git log
+   47  git push
+   48  git push --set-upstream origin master
+   49  git pull origin master
+   50  git status
+   51  git status
+   52  git add -A
+   53  git status
+   54  git commit -m "Depence Injection types(Constructor, Setter and Property) first commit"
+   55  git push 
+   56  git status 
+   57  git clone https://github.com/in28minutes/spring-microservices.git
+   58  ls
+   59  cd spring-microservices
+   60  ls
+   61  git status
+   62  git clone https://github.com/aya-mohamed-mahmoud/ComproSW.git
+   63  ls
+   64  cd comproSW
+   65  ls
+   66  git checkout Brian
+   67  ls
+   68  git checkout Master
+   69  ls
+   70  git clone https://github.com/aya-mohamed-mahmoud/ComproSW.git
+   71  ls
+   72  cd ComproSW
+   73  ls
+   74  git checkout Brian
+   75  ls
+   76  git checkout master
+   77  ls
+   78  git status
+   79  git pull
+   80  git status
+   81  git pull
+   82  ls
+   83  git checkout Brian
+   84  ls
+   85  git status
+   86  git status
+   87  git checkout master
+   88  ls
+   89  git checkout Brian
+   90  git pull
+   91  ls
+   92  ls
+   93  ls
+   94  checkout Brian
+   95  git checkout Brian
+   96  git status 
+   97  git add -A
+   98  git commit -m "My firstcommit"
+   99  git push 
+  100  ls
+  101  git status
+  102  git add -A
+  103  git status 
+  104  git checkout Master
+  105  git status 
+  106  git add .
+  107  git status
+  108  git commit - m "The Models  + part of Logic for Coach and CPT Report"
+  109  git commit -m "The Models  + part of Logic for Coach and CPT Report"
+  110  git pull development
+  111  git merge development
+  112  git --branches
+  113  git ?
+  114  git ?
+  115  git pull development
+  116  git checkout development
+  117  clr
+  118  clear
+  119  git pull ComproSW development
+  120  cd ../
+  121  cd ../
+  122  ls
+  123  cd FEAProject
+  124  git clone https://github.com/aya-mohamed-mahmoud/ComproSW.git
+  125  la
+  126  clear
+  127  ls
+  128  cd ComproSW/
+  129  git checkout Brian
+  130  git stash 
+  131  git checkout Brian
+  132  ls
+  133  git checkout development
+  134  git stash
+  135  git checkout development
+  136  git checkout Brian
+  137  ls
+  138  git add README.md
+  139  git init
+  140  ls
+  141  ls
+  142  git pull
+  143  ls
+  144  echo README.md 
+  145  git add .
+  146  git status
+  147  git commit -m "The Hello World Spring Test Project"
+  148  git push
+  149  git status
+  150  git init
+  151  git remote add origin https://github.com/brianstenk/SpringBoot_203.git
+  152  git add.
+  153  git add .
+  154  git commit -m "Spring MVC - Thymeleaf, and HTML verbs"
+  155  git push
+  156  git status 
+  157  ls
+  158  git status
+  159  git fetch
+  160  ls
+  161  git status
+  162  git reote -v
+  163  git remote -v
+  164  git push origin remote 
+  165  git push origin https://github.com/brianstenk/SpringBoot_203.git
+  166  cd ../
+  167  ls
+  168  cd SpringBoot_203/
+  169  ls
+  170  git add .
+  171  git status
+  172  git commit -m "123"
+  173  git merge
+  174  ls
+  175  git init
+  176  git remote add origin https://github.com/brianstenk/MicroServicesProject.git
+  177  git status
+  178  git add .
+  179  git commit -m "The Job, Tm , and Student microservices"
+  180  git push -f origin master
+  181  git status
+  182  ls
+  183  git init
+  184  ls
+  185  git status
+  186  git commit -m "Lists through Thymeleaf and H2 In Memory DBs"
+  187  git push origin https://github.com/brianstenk/SpringBoot_302.git
+  188  git remote add  origin https://github.com/brianstenk/SpringBoot_302.git
+  189  git status
+  190  rm -rf .git/
+  191  git init
+  192  ls
+  193  git status
+  194  git remote add  origin https://github.com/brianstenk/SpringBoot_302.git
+  195  git commit -m "Lists through Thymeleaf and H2 In Memory DBs"
+  196  git add .
+  197  git commit -m "Lists through Thymeleaf and H2 In Memory DBs"
+  198  git push -f origin master
+  199  git status
+  200  git push origin master
+  201  git pull
+  202  git pull remote master
+  203  ls
+  204  clear
+  205  rm -rf .git/
+  206  git init
+  207  git remote add origin https://github.com/brianstenk/SpringBoot_203.git
+  208  git commit -m "Spring MVC _203"
+  209  git push -f origin master
+  210  git status
+  211  git add .
+  212  git commit -m "Spring MVC _203"
+  213  git push -f origin master
+  214  git status
+  215  cd ../
+  216  ls
+  217  rm -rf .git/
+  218  git init
+  219  git remote add origin https://github.com/brianstenk/SpringBoot_203.git
+  220  git remote add origin https://github.com/brianstenk/springboot1_204.git
+  221  rm -rf .git/
+  222  ls
+  223  cd springboot_204
+  224  ls
+  225  cd C:\Users\CTI Telemedicine\Downloads\springboot1_204
+  226  ls
+  227  git init
+  228  ls
+  229  rm -rf .git/
+  230  ls
+  231  cd C:\Users\CTI Telemedicine\Downloads\springboot1_204\springboot1_204
+  232  ls
+  233  git init
+  234  rm -rf .git/
+  235  cd ../
+  236  cd /
+  237  ls
+  238  cd usr
+  239  ls
+  240  clr
+  241  clear
+  242  cd C:\EA
+  243  ls
+  244  cd springboot1_204
+  245  ls
+  246  cd springboot1_204
+  247  ls
+  248  git init
+  249  ls
+  250  git remote add origin https://github.com/brianstenk/springboot1_204.git
+  251  git status
+  252  git add .
+  253  git commit -m "The Form Validations - Easyway"
+  254  git push -f origin master
+  255  git init
+  256  git remote add origin https://github.com/brianstenk/SpringBoot_305.git
+  257  git add .
+  258  git commit -m "Many to Many Mapping"
+  259  git push -f origin master
+  260  git push -f origin master
+  261  git init
+  262  git remote add origin https://github.com/brianstenk/SpringBoot_303.git
+  263  git add .
+  264  git commit -m "The Complete Data Lifecycle- Form, list, Detail, Delete"
+  265  git push -f origin master
+  266  git status
+  267  git add .
+  268  git commit -m "Added the Views"
+  269  git push -f origin master
+  270  git add .
+  271  git commit -m "Added configurations the H2 Database"
+  272  git push -f origin master
+  273  git status
+  274  git add .
+  275  git commit -m "Fixed the bug on the @Size on on int property of credit- used @Min(3)"
+  276  git push -f origin master
+  277  git status
+  278  git add .
+  279  git commit -m "Added the Data Load to automatically addd 3 courses when the application starts"
+  280  git push -f origin master
+  281   git init
+  282  ls
+  283   git init
+  284  git remote add origin https://github.com/brianstenk/SpringBoot_501.git
+  285  git add .
+  286  git commit -m "Using Page fragments to reduce teh repaeating parts of a site"
+  287  git push -u origin master
+  288  git status
+  289  git status
+  290  git add .
+  291  git commit -m "Using Database based Authentication"
+  292  git push -f origin master
+  293  git add .
+  294  git commit -m "Added a DataLoader"
+  295  git push -f origin master
+  296  git init
+  297  git add .
+  298  git commit -m "MathUtil Tests"
+  299  git remote add origin https://github.com/brianstenk/junitSample.git
+  300  git push -f origin master
+  301  git add .
+  302  git commit -m "123"
+  303  git push -f origin master
+  304  git init
+  305  git add .
+  306  git commit -m "Storing USer Info and retreiving the current User"
+  307  git remote add origin https://github.com/brianstenk/SpringBoot_402.git
+  308  git push -f origin master
+  309  git status
+  310  git pull
+  311  ls
+  312  git fetch
+  313  ls
+  314  git init
+  315  git add .
+  316  git commit -m "Implementing User registration"
+  317  git remote add https://github.com/brianstenk/SpringBoot_403.git
+  318  git push -f origin master
+  319  git status
+  320  git remote add origin https://github.com/brianstenk/SpringBoot_403.git
+  321  git branch -M main
+  322  git push -u origin main
+  323  git add .
+  324  git commit -m "Implementing the Controller for registration with all the HTTP actions"
+  325  git push -u origin main
+  326  git add .
+  327  git commit -m "Add the view for Registration using thymeleaf"
+  328  git push -u origin main
+  329  git add .
+  330  git status
+  331  git commit -m "Added the root end point to the controller"
+  332  git push -u origin main
+  333  git init
+  334  git add .
+  335  git commit -m "Developed the show case area(grid, starter page, jumbotron)"
+  336  git remote add origin https://github.com/brianstenk/Gamma.git
+  337  git push -f origin master
+  338  git diff master main
+  339  git show HEAD~2
+  340  git diff HEAD~2 HEAD
+  341  GIT REMOTE
+  342  git remote
+  343  git branch
+  344  git reflog
+  345  ls
+  346  code index.html
+  347  git status
+  348  git add .
+  349  git commit -m "Commented on the Grid System"
+  350  git push
+  351  git push origin master
+  352  code index.html
+  353  git add .
+  354  git commit -m "Added the section of features and the footer "
+  355  git push -f origin master
+  356  git add .
+  357  clear
+  358  git commit -m "Inner Pages , Accordian/collapse and forms "
+  359  git push -f origin master
+  360  git status
+  361  git add .
+  362  git commit -m "Optimising the site for mobile devices using @media query"
+  363  git push -f origin master
+  364  git add .
+  365  git commit -m "Links and adjusting the footer for small devices"
+  366  git push origin master
+  367  docker run -d -p 80:80 docker/getting-started
+  368  docker --version
+  369  git status
+  370  git add .
+  371  git commit -m "UserDatails customisation for configuring later with Spring Security"
+  372  git push -f origin master
+  373  git status
+  374  git add .
+  375  git commit -m "Eureka Server microservice and its configuration # The services endpoint"
+  376  git push -f origin master
+  377  git init
+  378  git add .
+  379  git commit -m "Course Management Microservice"
+  380  git remote add origin https://github.com/brianstenk/Microservice-CourseManagement.git
+  381  git push -f origin master
+  382  node -v
+  383  git status
+  384  git add .
+  385  git commit -m "Course Management Microservice- Consuming service MS mapping"
+  386  git push -f origin master
+  387  git init 
+  388  git add . 
+  389  git commit -m "my Eureka Server"
+  390  git remote add origin https://github.com/brianstenk/EurekaServer-CourseManagement.git
+  391  git push -f origin master
+  392  git status 
+  393  git status
+  394  git add .
+  395  git commit -m "Registered ports and instances to dicoveryClient"
+  396  git push -f origin master
+  397  clear
+  398  git status
+  399  ls
+  400  git init
+  401  git add .
+  402  git commit -m "The System Front end"
+  403  git remote add origin https://github.com/brianstenk/client-sideCRSystem.git
+  404  git push -f origin master
+  405  git init
+  406  git add .
+  407  git commit -m "Zuul Gateway Server "
+  408  git remote add origin https://github.com/brianstenk/Zuul-Gateway-Service-.git
+  409  git push -f origin master
+  410  git status
+  411  git status
+  412  ls
+  413  cd ../
+  414  cd .
+  415  ls
+  416  cd CTI Telemedicine
+  417  cd C:\EA\client-side
+  418  cd d:/
+  419  cd C:\E
+  420  cd C:/E
+  421  git status
+  422  git add .
+  423  git commit
+  424  git status
+  425  git add .
+  426  git commit -m "No Message"
+  427  git push -f origin master
+  428  git status
+  429  git commit -m "Changes on the service name and eureka zone"
+  430  git push -f origin master
+  431  git status
+  432  git add .
+  433  git commit -m "Modified the routes to classes"
+  434  git push -f origin master
+  435  git status
+  436  git add .
+  437  git commit -m "Fixed the registration bug"
+  438  git push -f origin master
+  439  git init 
+  440  git add . 
+  441  git commit -m"Eureka that doesnt open the login page"
+  442  git remote add origin https://github.com/brianstenk/Eureka-Server1030.git
+  443  git push -f origin master
+  444  git status
+  445  #!/bin/bash
+  446  # Licensed to the Apache Software Foundation (ASF) under one or more
+  447  # contributor license agreements.  See the NOTICE file distributed with
+  448  # this work for additional information regarding copyright ownership.
+  449  # The ASF licenses this file to You under the Apache License, Version 2.0
+  450  # (the "License"); you may not use this file except in compliance with
+  451  # the License.  You may obtain a copy of the License at
+  452  #
+  453  #    http://www.apache.org/licenses/LICENSE-2.0
+  454  #
+  455  # Unless required by applicable law or agreed to in writing, software
+  456  # distributed under the License is distributed on an "AS IS" BASIS,
+  457  # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  458  # See the License for the specific language governing permissions and
+  459  # limitations under the License.
+  460  if [ $# -lt 1 ]; then 	echo "USAGE: $0 [-daemon] zookeeper.properties"; 	exit 1; fi
+  461  base_dir=$(dirname $0)
+  462  if [ "x$KAFKA_LOG4J_OPTS" = "x" ]; then     export KAFKA_LOG4J_OPTS="-Dlog4j.configuration=file:$base_dir/../config/log4j.properties"; fi
+  463  if [ "x$KAFKA_HEAP_OPTS" = "x" ]; then     export KAFKA_HEAP_OPTS="-Xmx512M -Xms512M"; fi
+  464  EXTRA_ARGS=${EXTRA_ARGS-'-name zookeeper -loggc'}
+  465  COMMAND=$1
+  466  case $COMMAND in   -daemon)      EXTRA_ARGS="-daemon "$EXTRA_ARGS;      shift;      ;;  *)      ;; esac
+  467  exec $base_dir/kafka-run-class.sh $EXTRA_ARGS org.apache.zookeeper.server.quorum.QuorumPeerMain "$@"
+  468  cp config/server.properties config/server-1.properties 
+  469  cp config/server.properties config/server-2.properties
+  470  config/server-1.properties:
+  471      broker.id=1
+  472      port=9093
+  473      log.dir=/tmp/kafka-logs-1
+  474   
+  475  config/server-2.properties:
+  476      broker.id=2
+  477      port=9094
+  478      log.dir=/tmp/kafka-logs-2
+  479  ls
+  480  cd config
+  481  ls
+  482  cd C:/EA
+  483  git init
+  484  cd C:
+  485  pwd
+  486  ls
+  487  mkdir kafka
+  488  mkdir kafka_test
+  489  cd kafka_test/
+  490  git clone https://github.com/confluentinc/cp-all-in-one.git
+  491  ls
+  492  cd cp-all-in-one/
+  493  git checkout 6.0.0-post
+  494  ls
+  495  cd cp-all-in-one
+  496  clear
+  497  cd /
+  498   netstat -ano | findstr :2792
+  499  netstat -ano | findstr :2792
+  500  git status
+  501  git init
+  502  git add .
+  503  git commit -m "Producer/Consumer"
+  504  git remote add https://github.com/brianstenk/KafkaProducerConsumer.git
+  505  git branches
+  506  git branch
+  507  git checkout 6.0.0-post
+  508  git push -f origin master
+  509  git status
+  510  ls
+  511  git remote add origin https://github.com/brianstenk/KafkaProducerConsumer.git
+  512  git push -f origin master
+  513  ls
+  514  history >>historyGitDocker.txt
